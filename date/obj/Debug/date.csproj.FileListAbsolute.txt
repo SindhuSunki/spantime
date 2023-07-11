@@ -1,0 +1,8 @@
+D:\day 2\date\date\bin\Debug\date.exe.config
+D:\day 2\date\date\bin\Debug\date.exe
+D:\day 2\date\date\bin\Debug\date.pdb
+D:\day 2\date\date\obj\Debug\date.csproj.AssemblyReference.cache
+D:\day 2\date\date\obj\Debug\date.csproj.SuggestedBindingRedirects.cache
+D:\day 2\date\date\obj\Debug\date.csproj.CoreCompileInputs.cache
+D:\day 2\date\date\obj\Debug\date.exe
+D:\day 2\date\date\obj\Debug\date.pdb
